@@ -1,3 +1,4 @@
+#array
 my_list =[1,2,3]
 #in this case the loop is effective to the len
 #the len is repeated as many objects as they are in the list 
